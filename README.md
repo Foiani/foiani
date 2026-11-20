@@ -47,12 +47,6 @@
 | **Sites institucionais** | Presença profissional online para negócios locais e profissionais liberais |
 | **Automações simples** | Integração de formulários, e-mail e planilhas para facilitar o dia a dia |
 
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**Nome do projeto**](#) | Descrição curta do que ele faz | HTML, CSS, JS |
-| [**Nome do projeto**](#) | Descrição curta do que ele faz | React, Tailwind |
 
 ## 📫 Vamos conversar
 
