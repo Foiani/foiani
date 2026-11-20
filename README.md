@@ -1,10 +1,10 @@
 <div align="center">
 
-# Olá, eu sou a Ana 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Lucas%20Ferreira&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20•%20Python%20•%20Cloud&descAlignY=58&descAlign=50" width="100%" />
 
-### Dev Frontend • Apaixonada por acessibilidade e design de interfaces
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=React+%2B+TypeScript;Interfaces+acessíveis;Café+%2B+código+%E2%98%95)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Construo+APIs+escaláveis;Automatizo+tudo+que+posso;Café+%2B+Python+%2B+Docker+%E2%98%95" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -12,40 +12,28 @@
 
 ## 🧠 Sobre mim
 
-- 🎨 Transformo protótipos do Figma em componentes reutilizáveis
-- ♿ Acessibilidade não é opcional, é requisito
-- 📚 Estudando Rust nas horas vagas
-- 🌱 Próximo objetivo: contribuir com um projeto open source de design system
+- ⚙️ Construo APIs e microsserviços que aguentam tráfego de verdade
+- ☁️ Infra como código com Terraform e deploy em AWS
+- 🤖 Automação de tudo que se repete, do CI/CD ao relatório semanal
+- 🌱 Agora estudando Go e sistemas distribuídos
 
 ## 🛠️ Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
-## 🚀 Projetos em destaque
+## 📊 GitHub Stats
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**ui-kit-acessivel**](#) | Biblioteca de componentes com foco em a11y | React, Storybook |
-| [**dashboard-finance**](#) | Painel de controle financeiro pessoal | Next.js, Chart.js |
-| [**blog-pessoal**](#) | Meu blog sobre frontend e carreira | Astro, MDX |
+<p align="center">
+  <img height="170" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-## 📫 Me chama
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](#)
-
----
-
-<p align="center">⭐ Se curtir o trabalho, deixa uma estrelinha nos repositórios!</p>
+<p align="center">
+  <img alt="Streak" src="https://github-readme-streak-stats.hero
