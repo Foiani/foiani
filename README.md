@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gabriel%20Henrique&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engenharia%20de%20Software%20•%20Vibe%20Coder%20•%20Landing%20Pages&descAlignY=58&descAlign=50" width="100%" />
 
-<a href="https://linkedin.com/in/gabriel-henrique-b37b6b300">
+<p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Construo+sites+com+IA+%E2%9A%A1;Landing+pages+que+convertem;Engenharia+de+Software+em+formação+%F0%9F%8E%93" alt="Typing SVG" />
-</a>
+</p>
 
 </div>
 
@@ -31,11 +31,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Vibe+Coder;Landing+Pages" alt="Typing SVG" />
+  <img height="170" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=foiani&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foiani&layout=compact&theme=radical&hide_border=true" />
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Vibe+Coder;Landing+Pages" alt="Typing SVG" />
+  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=foiani&theme=radical&hide_border=true" />
 </p>
+
 ## 💼 Serviços
 
 | Serviço | O que entrego |
@@ -44,6 +47,12 @@
 | **Sites institucionais** | Presença profissional online para negócios locais e profissionais liberais |
 | **Automações simples** | Integração de formulários, e-mail e planilhas para facilitar o dia a dia |
 
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**Nome do projeto**](#) | Descrição curta do que ele faz | HTML, CSS, JS |
+| [**Nome do projeto**](#) | Descrição curta do que ele faz | React, Tailwind |
 
 ## 📫 Vamos conversar
 
@@ -52,4 +61,4 @@
 
 ---
 
-<p align="center">⭐ Curtiu o trabalho? Deixa uma estrela nos repositórios!</p>
+<p align="center">⭐ Curtiu o trabalho? Deixa uma estrela nos
