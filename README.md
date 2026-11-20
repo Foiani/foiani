@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gabriel%20Henrique&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engenharia%20de%20Software%20•%20Vibe%20Coder%20•%20Landing%20Pages&descAlignY=58&descAlign=50" width="100%" />
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Construo+sites+com+IA+%E2%9A%A1;Landing+pages+que+convertem;Engenharia+de+Software+em+formação+%F0%9F%8E%93" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gabriel%20Henrique&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Engenharia%20de%20Software%20•%20Vibe%20Coder%20•%20Landing%20Pages&descAlignY=58&descAlign=50" width="100%" />
 
 </div>
 
@@ -35,10 +31,6 @@
   <img height="170" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foiani&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=foiani&theme=radical&hide_border=true" />
-</p>
-
 ## 💼 Serviços
 
 | Serviço | O que entrego |
@@ -61,4 +53,4 @@
 
 ---
 
-<p align="center">⭐ Curtiu o trabalho? Deixa uma estrela nos
+<p align="center">⭐ Curtiu o trabalho? Deixa uma estrela nos repositórios!</p>
