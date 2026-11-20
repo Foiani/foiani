@@ -36,9 +36,8 @@
 </p>
 
 <p align="center">
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Vibe+Coder;Landing+Pages" alt="Typing SVG" />
 </p>
-
 ## 💼 Serviços
 
 | Serviço | O que entrego |
