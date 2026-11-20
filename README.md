@@ -31,10 +31,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Vibe+Coder;Landing+Pages" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Vibe+Coder;Landing+Pages" alt="Typing SVG" />
 </p>
